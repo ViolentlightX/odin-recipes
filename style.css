@@ -3,3 +3,34 @@ body {
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ol-div {
+    display: flex;
+    align-content: center;
+    margin: auto 43%;
+}
+
+a:link {
+    color: rgb(250, 194, 194);
+}
+
+a:visited {
+    color: rgb(95, 80, 80);
+}
+
+a:hover {
+    color: rgb(243, 234, 196);
+}
+
+a:active {
+    color: rgb(251, 242, 76);
+}
